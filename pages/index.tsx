@@ -44,7 +44,7 @@ useEffect(() => {
 
     <main>
 
-      <h1>Hello, Amplify 👋</h1>
+      <h1>Hello, Amplify. LG Test #2 👋</h1>
 
       <button onClick={async () => {
 
